@@ -1,1 +1,1 @@
-# Nimaptest
+# NimapInfoTest
